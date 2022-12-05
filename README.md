@@ -4,7 +4,7 @@
 
 ### NFT Growth Blueprint from A-Z High Level Overview
 Things to consider before buying NFT.
-![Buying NFT](./docs/m5.png)
+![Buying NFT](./docs/m5.png?raw=true)
 
 ### What is Minting?
 To mint a project, u need to be whitelisted (WL).
