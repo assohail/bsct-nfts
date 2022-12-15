@@ -18,7 +18,7 @@ WL: U have been selected by the project and u can take part in the minting proce
 
 #### Pattern Rrecgnition Trend
 * [Platfarm](https://icy.tools)
-* [SuperSea](https://nonfungible.tools/supersea) a paid tool, good to check rarity.
+* [SuperSea](https://nonfungible.tools/supersea): a paid tool, good to check rarity.
 * [Rraity](https://rarity.tools): free tool to check rarity
 * floor even out time: 30 minutes to 1.5 hr
 
