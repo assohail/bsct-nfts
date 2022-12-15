@@ -18,20 +18,20 @@ WL: U have been selected by the project and u can take part in the minting proce
 
 #### Pattern Rrecgnition Trend
 * [Platfarm](https://icy.tools)
-* [SuperSea](nonfungible.tools/supersea): Paid tool, good to check rarity.
-* [Rraity](rarity.tools): free tool to check rarity
+* [SuperSea](https://nonfungible.tools/supersea) a paid tool, good to check rarity.
+* [Rraity](https://rarity.tools): free tool to check rarity
 * floor even out time: 30 minutes to 1.5 hr
 
 #### Important Market Phases
 * Crypto trade volume is opposite to NFTs in bear and bull trends
-* [NFT Volume Tracker](dune.xyz): tracks the volume across whole OpenSea
+* [NFT Volume Tracker](https://dune.xyz): tracks the volume across whole OpenSea
 * The trading strategies showed previously works best in bull market
 * Trading NFTs in bull market is good
 * Bear Market: only focus on hype projects. For long term can focus on blue chip (long term) as well.
 * If you are new to NFTs, abstain trading in the bear market
 ![Bear Market Trend](./docs/bearMarketTrend.png?raw=true "Bear Market")
 
-### Gass Free Marketplace
+### 8. Gass Free Marketplace
 
 #### OpenSea - Ethereum - Polygon
 
