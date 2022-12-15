@@ -29,6 +29,7 @@ WL: U have been selected by the project and u can take part in the minting proce
 * Trading NFTs in bull market is good
 * Bear Market: only focus on hype projects. For long term can focus on blue chip (long term) as well.
 * If you are new to NFTs, abstain trading in the bear market
+![Bear Market Trend](./docs/bearMarketTrend.png?raw=true "Bear Market")
 
 ### Gass Free Marketplace
 
