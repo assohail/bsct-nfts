@@ -17,7 +17,7 @@ WL: U have been selected by the project and u can take part in the minting proce
 ### 7. Trading NFTs on The Secondry Market
 
 #### Pattern Rrecgnition Trend
-* [Platfarm](icy.tools)
+* [Platfarm](https://icy.tools)
 * [SuperSea](nonfungible.tools/supersea): Paid tool, good to check rarity.
 * [Rraity](rarity.tools): free tool to check rarity
 * floor even out time: 30 minutes to 1.5 hr
